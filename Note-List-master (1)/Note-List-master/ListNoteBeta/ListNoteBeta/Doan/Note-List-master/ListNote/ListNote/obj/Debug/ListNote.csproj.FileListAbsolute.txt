@@ -1,0 +1,139 @@
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.Form1.resources
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\tuank\Desktop\DesktopC\ListNote\ListNote\obj\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Form1.resources
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb
+C:\Users\admin\Downloads\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Login.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.AddNewQueryDocument.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Calendar.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DailyEvent.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DeletecardForm.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Form1.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListEvent.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.PreDocuments.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+D:\Filecode\C#\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Login.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.AddNewQueryDocument.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Calendar.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DailyEvent.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DeletecardForm.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListEvent.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.PreDocuments.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb
+C:\Users\tuank\Desktop\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListNote.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Login.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.AddNewQueryDocument.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Calendar.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DailyEvent.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DeletecardForm.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListNote.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListEvent.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.PreDocuments.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb
+D:\Filecode\Doan (1)\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.SignUp.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Login.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.SignUp.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.AddNewQueryDocument.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Calendar.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DailyEvent.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DeletecardForm.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListNote.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListEvent.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.PreDocuments.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\admin\Downloads\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Description.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.GhiChu.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Login.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.SignUp.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.CldWeek.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Taolich.DailyDocument.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.AddNewQueryDocument.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Calendar.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DailyEvent.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListNote.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListEvent.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.PreDocuments.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\godie\OneDrive\Máy tính\LISTNOTDOT2\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe.config
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.exe
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\bin\Debug\ListNote.pdb
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csprojAssemblyReference.cache
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Description.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.GhiChu.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Login.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.SignUp.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.CldWeek.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Taolich.DailyDocument.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.AddNewQueryDocument.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Calendar.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.DailyEvent.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Documents.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListNote.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.ListEvent.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.PreDocuments.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.Properties.Resources.resources
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.GenerateResource.cache
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.csproj.CoreCompileInputs.cache
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.exe
+C:\Users\tuank\Desktop\Note-List-master (1)\Note-List-master\ListNoteBeta\ListNoteBeta\Doan\Note-List-master\ListNote\ListNote\obj\Debug\ListNote.pdb

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C857C7AF-F15F-442A-B632-60B2539227A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ListNote</RootNamespace>
+    <AssemblyName>ListNote</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ghichu\Description.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ghichu\Description.Designer.cs">
+      <DependentUpon>Description.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ghichu\GhiChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ghichu\GhiChu.Designer.cs">
+      <DependentUpon>GhiChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taolich\DailyDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taolich\DailyDocument.Designer.cs">
+      <DependentUpon>DailyDocument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Themtailieu\AddNewQueryDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Themtailieu\AddNewQueryDocument.Designer.cs">
+      <DependentUpon>AddNewQueryDocument.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taolich\Calendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taolich\Calendar.Designer.cs">
+      <DependentUpon>Calendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taolich\Cons.cs" />
+    <Compile Include="Taolich\DailyEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taolich\DailyEvent.Designer.cs">
+      <DependentUpon>DailyEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Themtailieu\Documents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Themtailieu\Documents.Designer.cs">
+      <DependentUpon>Documents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataTrans\Job.cs" />
+    <Compile Include="List-Note.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List-Note.Designer.cs">
+      <DependentUpon>List-Note.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taolich\ListEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taolich\ListEvent.Designer.cs">
+      <DependentUpon>ListEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Themtailieu\PreDocuments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Themtailieu\PreDocuments.Designer.cs">
+      <DependentUpon>PreDocuments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DataTrans\Account.cs" />
+    <Compile Include="Taolich\CldWeek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taolich\CldWeek.Designer.cs">
+      <DependentUpon>CldWeek.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ghichu\Description.resx">
+      <DependentUpon>Description.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ghichu\GhiChu.resx">
+      <DependentUpon>GhiChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taolich\CldWeek.resx">
+      <DependentUpon>CldWeek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taolich\DailyDocument.resx">
+      <DependentUpon>DailyDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Themtailieu\AddNewQueryDocument.resx">
+      <DependentUpon>AddNewQueryDocument.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taolich\Calendar.resx">
+      <DependentUpon>Calendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taolich\DailyEvent.resx">
+      <DependentUpon>DailyEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Themtailieu\Documents.resx">
+      <DependentUpon>Documents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List-Note.resx">
+      <DependentUpon>List-Note.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taolich\ListEvent.resx">
+      <DependentUpon>ListEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Themtailieu\PreDocuments.resx">
+      <DependentUpon>PreDocuments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Imag\Screenshot 2020-11-21 191229.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\rsz_ephoto360com_15fbbdcb98761a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_uẻname.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_1psw.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
